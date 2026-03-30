@@ -34,4 +34,3 @@ The application features a modern, premium **Dark Mode** aesthetic utilizing vib
 4. **Admin Flow:** Manage incoming orders and monitor business statistics visually.
 
 ---
-*Built with ❤️ for Nandha Canteen*
